@@ -3,7 +3,7 @@
 **Name:** Sebastin  
 **BITS ID:** 2026ct05199  
 **Email:** [2026ct05199@wilp.bits-pilani.ac.in](mailto:2026ct05199@wilp.bits-pilani.ac.in)  
-**Programme:** M.Tech (AIML/DSE) – Machine Learning
+**Programme:** M.Tech (AIML) – Machine Learning
 
 
 ## Problem statement
